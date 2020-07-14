@@ -1,0 +1,1 @@
+// Extract code from AppShow.tsx

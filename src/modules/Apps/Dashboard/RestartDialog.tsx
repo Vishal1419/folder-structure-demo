@@ -1,0 +1,1 @@
+// rename AppRestartDialog.tsx to RestartDialog.tsx

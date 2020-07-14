@@ -1,0 +1,1 @@
+// rename AppScaleDialog.tsx to ScaleDialog.tsx

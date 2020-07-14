@@ -1,0 +1,1 @@
+// rename CanaryDeleteDialog.tsx to DeleteDialog.tsx

@@ -1,0 +1,1 @@
+// rename AppDeleteDialog.tsx to DeleteDialog.tsx

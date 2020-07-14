@@ -1,0 +1,1 @@
+// extract from AppLayout.tsx

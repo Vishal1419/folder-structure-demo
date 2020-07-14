@@ -1,0 +1,1 @@
+// rename DomainDeleteDialog.tsx to DeleteDialog.tsx

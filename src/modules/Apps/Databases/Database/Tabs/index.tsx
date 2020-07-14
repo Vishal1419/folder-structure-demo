@@ -1,0 +1,1 @@
+// rename DatabaseTabs.tsx to index.tsx
